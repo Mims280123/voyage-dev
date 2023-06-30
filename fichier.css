@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(0, 162, 255);
+    background: linear-gradient(90deg, #60a4c3, #2e85bf);
+}
+
+#circle {
+    position: center;
+    top: 10px;
+    right: 10px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: rgb(204, 188, 43);
+    text-align: center;
+    line-height: 100px;
+    color: rgb(241, 235, 235);
+}
+
+.label {
+    font-size: 18px;
+}
+
+#weather-info {
+    position: center;
+    top: 10px;
+    left: 10px;
+    color: white;
+    font-size: 16px;
+}
+
+#temperature {
+    margin-top: 10px;
+}
+
+#current-temp {
+    margin-top: 10px;
+    font-size: 24px;
+}
+
+h1{
+    font-size: 3em;
+    text-align: center;
+}
